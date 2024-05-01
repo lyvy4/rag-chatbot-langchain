@@ -1,0 +1,301 @@
+Transaction ID,Date,Opportunity Amount,Type,Customer ID,Sales Agent,Opportunity stage,Opportunity status,Amount closed
+107,2023-01-02,8578.49,Renewal,51768,Agent C,Proposal,On Hold,35502.92
+280,2023-01-04,32185.3,Sale,31262,Agent A,Qualification,Open,25841.65
+147,2023-01-05,24368.11,Sale,40391,Agent D,Proposal,Lost,2987.9
+9,2023-01-11,5929.29,Renewal,45300,Agent C,Qualification,Open,9661.81
+130,2023-01-13,39983.34,Upgrade,92283,Agent C,Prospecting,Open,15546.52
+213,2023-01-13,10196.79,Contract,21908,Agent D,Negotiation,Lost,25326.58
+184,2023-01-15,22929.54,Upgrade,12352,Agent D,Negotiation,Lost,9842.6
+170,2023-01-18,12224.25,Renewal,48986,Agent A,Qualification,Lost,38489.45
+154,2023-01-21,48038.26,Contract,81627,Agent D,Proposal,Lost,25724.02
+109,2023-01-25,35242.15,Upgrade,76666,Agent A,Prospecting,Open,15863.01
+201,2023-01-26,19701.54,Upgrade,45349,Agent C,Qualification,Won,34224.93
+267,2023-01-27,33529.9,Upgrade,52160,Agent C,Negotiation,Open,30717.31
+25,2023-01-27,16427.37,Contract,28670,Agent A,Prospecting,On Hold,24670.35
+174,2023-01-27,31594.29,Upgrade,97701,Agent D,Proposal,On Hold,48950.55
+222,2023-01-29,7938.69,Renewal,56670,Agent A,Proposal,Won,43784.61
+240,2023-01-29,20683.37,Contract,78829,Agent B,Prospecting,Lost,3329.82
+51,2023-01-30,29848.66,Sale,84675,Agent D,Proposal,On Hold,49171.7
+229,2023-01-31,28278.88,Sale,83914,Agent C,Negotiation,On Hold,33650.51
+273,2023-01-31,49748.04,Sale,31540,Agent C,Closing,Lost,42634.45
+45,2023-02-02,21002.57,Sale,32708,Agent A,Prospecting,Lost,13577.55
+62,2023-02-02,31388.46,Sale,24707,Agent D,Prospecting,Won,32140.17
+212,2023-02-03,5541.63,Renewal,47328,Agent D,Negotiation,Lost,17330.39
+44,2023-02-03,26962.53,Renewal,19635,Agent B,Qualification,Lost,45820.95
+134,2023-02-03,17276.99,Sale,50719,Agent B,Closing,Won,9699.54
+248,2023-02-04,9765.78,Upgrade,46967,Agent B,Negotiation,Won,12014.62
+231,2023-02-06,29960.95,Upgrade,79502,Agent C,Prospecting,Won,9265.65
+125,2023-02-07,13151.79,Sale,60512,Agent D,Qualification,Won,24548.32
+252,2023-02-07,7626.04,Contract,82652,Agent C,Qualification,Open,22811.13
+56,2023-02-09,9513.23,Upgrade,46151,Agent A,Closing,Open,33894.75
+289,2023-02-10,29843.52,Sale,83784,Agent A,Negotiation,On Hold,21011.68
+19,2023-02-10,13353.62,Contract,27553,Agent B,Prospecting,On Hold,26698.9
+191,2023-02-11,20991.6,Contract,88438,Agent D,Qualification,Won,45958.55
+122,2023-02-12,36303.15,Contract,64772,Agent B,Qualification,On Hold,49128.69
+189,2023-02-12,6498.71,Sale,33299,Agent B,Negotiation,Won,45770.38
+61,2023-02-13,17677.85,Contract,70533,Agent A,Prospecting,Lost,812.64
+140,2023-02-13,8463.04,Renewal,62026,Agent A,Prospecting,Won,42441.65
+105,2023-02-13,39676.13,Sale,78129,Agent A,Qualification,Won,38596.54
+108,2023-02-14,9032.14,Contract,36952,Agent A,Qualification,On Hold,39493.48
+295,2023-02-14,18967.14,Contract,15912,Agent B,Qualification,Lost,15509.77
+128,2023-02-14,36364.88,Sale,36418,Agent A,Qualification,Won,45324.71
+211,2023-02-14,10897.49,Contract,99283,Agent A,Prospecting,Lost,9666.73
+245,2023-02-15,18345.03,Contract,41949,Agent D,Proposal,On Hold,33584.49
+283,2023-02-15,48550.76,Renewal,66131,Agent D,Negotiation,Won,44982.59
+2,2023-02-18,25416.36,Upgrade,74433,Agent B,Proposal,Won,33682.66
+79,2023-02-18,20625.51,Upgrade,23596,Agent D,Negotiation,On Hold,18720.7
+91,2023-02-19,9403.0,Sale,10131,Agent C,Negotiation,Won,22339.67
+120,2023-02-21,25526.33,Sale,54428,Agent C,Proposal,Open,46157.95
+73,2023-02-24,33370.16,Sale,70027,Agent A,Proposal,Lost,1902.23
+55,2023-02-24,15837.3,Upgrade,87690,Agent D,Proposal,Won,38452.35
+65,2023-02-28,48987.28,Contract,23195,Agent C,Prospecting,Open,16073.65
+123,2023-03-01,17758.35,Upgrade,51808,Agent C,Qualification,On Hold,43772.57
+242,2023-03-04,49347.11,Upgrade,88848,Agent A,Qualification,Open,7654.84
+113,2023-03-05,43724.8,Sale,81071,Agent A,Qualification,Lost,27796.88
+230,2023-03-10,24084.0,Sale,65167,Agent B,Qualification,Won,40090.79
+202,2023-03-10,15473.49,Upgrade,40302,Agent C,Qualification,Lost,20866.66
+93,2023-03-12,48781.38,Sale,69864,Agent A,Negotiation,Won,11091.2
+281,2023-03-12,22226.36,Renewal,23304,Agent B,Prospecting,Lost,49146.32
+15,2023-03-13,33304.18,Renewal,72997,Agent B,Prospecting,Won,14937.52
+27,2023-03-15,28319.03,Sale,97051,Agent A,Proposal,Lost,23052.51
+233,2023-03-16,36795.86,Contract,15596,Agent B,Prospecting,Open,25999.25
+142,2023-03-20,18806.45,Renewal,28701,Agent A,Prospecting,Won,49917.74
+188,2023-03-22,43206.72,Contract,85025,Agent C,Prospecting,Won,35685.89
+257,2023-03-23,21843.33,Contract,45364,Agent B,Negotiation,Open,20023.49
+133,2023-03-23,31441.98,Sale,95398,Agent D,Closing,Open,6921.84
+116,2023-03-25,10916.73,Sale,74799,Agent A,Proposal,Won,45412.42
+70,2023-03-25,47719.35,Contract,60973,Agent A,Negotiation,Open,41523.82
+176,2023-03-26,25575.06,Upgrade,51333,Agent A,Qualification,Lost,29335.86
+296,2023-03-26,21786.57,Upgrade,30594,Agent B,Prospecting,Won,25771.65
+75,2023-03-27,18185.91,Renewal,56783,Agent C,Closing,On Hold,33358.44
+166,2023-03-29,19747.42,Renewal,61473,Agent D,Qualification,On Hold,2043.74
+127,2023-03-29,7558.16,Sale,52113,Agent B,Negotiation,On Hold,36907.58
+14,2023-03-30,42397.18,Upgrade,40306,Agent B,Closing,Open,15827.06
+20,2023-03-30,47875.62,Renewal,30441,Agent A,Closing,Open,47210.14
+22,2023-03-31,14697.85,Sale,91508,Agent A,Qualification,Won,5334.12
+16,2023-03-31,44269.28,Sale,22180,Agent C,Negotiation,Lost,12753.19
+247,2023-03-31,16223.9,Sale,72013,Agent D,Proposal,Won,47984.78
+71,2023-04-03,47362.0,Renewal,86745,Agent D,Prospecting,Won,2895.46
+287,2023-04-03,45354.25,Contract,96451,Agent B,Negotiation,Open,5478.48
+298,2023-04-05,38776.78,Renewal,16592,Agent A,Negotiation,Won,11562.75
+98,2023-04-06,8649.56,Upgrade,76827,Agent A,Qualification,Open,27549.7
+148,2023-04-06,27950.76,Upgrade,40955,Agent A,Closing,Won,17513.56
+155,2023-04-07,13420.89,Renewal,44381,Agent B,Qualification,Won,27343.41
+96,2023-04-07,39832.13,Upgrade,45695,Agent A,Prospecting,Lost,33360.74
+104,2023-04-10,5514.24,Contract,86304,Agent C,Closing,Lost,30063.86
+112,2023-04-10,30081.6,Upgrade,96935,Agent C,Closing,On Hold,44049.9
+34,2023-04-11,31405.3,Renewal,78134,Agent D,Qualification,Lost,35220.08
+72,2023-04-11,40964.12,Sale,17228,Agent D,Qualification,On Hold,14569.44
+214,2023-04-16,32831.61,Contract,35700,Agent D,Proposal,Won,31473.06
+60,2023-04-17,40331.88,Sale,63752,Agent C,Qualification,Won,42148.66
+167,2023-04-21,39055.04,Upgrade,11344,Agent C,Qualification,On Hold,12891.08
+173,2023-04-22,25616.25,Upgrade,62214,Agent B,Proposal,On Hold,36015.96
+220,2023-04-23,27063.74,Upgrade,16437,Agent A,Qualification,On Hold,38901.94
+195,2023-04-23,23056.68,Sale,49603,Agent A,Prospecting,Lost,49532.58
+286,2023-04-23,31650.37,Contract,60209,Agent D,Proposal,Open,34810.96
+271,2023-04-26,36480.88,Upgrade,89780,Agent D,Prospecting,Lost,33631.36
+29,2023-04-27,14336.15,Renewal,56617,Agent C,Negotiation,Won,44238.24
+175,2023-04-29,43597.52,Contract,99890,Agent D,Prospecting,Won,44941.26
+3,2023-04-29,29146.06,Renewal,95016,Agent B,Prospecting,On Hold,32211.16
+68,2023-05-01,48270.66,Sale,46076,Agent B,Closing,Open,7021.98
+181,2023-05-03,41698.57,Contract,57975,Agent A,Proposal,Open,37017.36
+74,2023-05-03,44342.96,Sale,67447,Agent D,Negotiation,Won,47827.21
+115,2023-05-05,17164.76,Contract,33616,Agent D,Prospecting,On Hold,38527.2
+218,2023-05-07,12332.95,Upgrade,12422,Agent D,Negotiation,Lost,33142.82
+145,2023-05-07,34050.66,Sale,65060,Agent B,Closing,Open,6374.94
+43,2023-05-09,11518.15,Upgrade,98910,Agent B,Proposal,Open,44059.41
+80,2023-05-09,11666.34,Contract,92368,Agent A,Negotiation,On Hold,17690.95
+136,2023-05-10,13867.44,Contract,78935,Agent C,Closing,Open,14912.29
+53,2023-05-10,48287.14,Upgrade,43393,Agent D,Qualification,Lost,22936.14
+54,2023-05-10,18146.64,Contract,69843,Agent A,Qualification,Open,40872.66
+260,2023-05-11,12733.39,Upgrade,92293,Agent C,Qualification,Open,8327.1
+197,2023-05-11,9482.67,Sale,53593,Agent D,Proposal,Open,32841.92
+111,2023-05-12,23924.28,Renewal,80386,Agent A,Qualification,On Hold,32482.82
+81,2023-05-13,49182.32,Contract,87528,Agent A,Closing,Lost,18913.39
+249,2023-05-15,47792.87,Upgrade,40642,Agent A,Proposal,Won,38157.01
+258,2023-05-18,38695.47,Renewal,20706,Agent C,Negotiation,Open,34767.32
+216,2023-05-20,49565.53,Sale,54113,Agent A,Closing,Won,44505.58
+165,2023-05-21,36482.99,Upgrade,49855,Agent D,Qualification,Open,984.58
+85,2023-05-25,21586.31,Sale,13467,Agent D,Prospecting,Lost,49163.74
+291,2023-05-27,25494.99,Contract,30202,Agent C,Proposal,Lost,45033.76
+276,2023-05-28,18175.73,Upgrade,66467,Agent D,Prospecting,On Hold,16954.73
+38,2023-05-29,10943.06,Renewal,17802,Agent B,Qualification,On Hold,35452.54
+39,2023-05-29,37258.69,Contract,64685,Agent C,Proposal,Open,30763.82
+86,2023-05-30,11160.51,Sale,20716,Agent B,Prospecting,Won,1521.33
+228,2023-05-30,34963.66,Renewal,64690,Agent D,Proposal,Won,5088.51
+118,2023-05-30,18571.94,Upgrade,53827,Agent D,Closing,Won,27914.17
+172,2023-05-31,48162.5,Contract,71096,Agent C,Negotiation,Open,42828.37
+290,2023-06-01,17224.37,Contract,16421,Agent D,Negotiation,Open,36423.7
+224,2023-06-02,17977.93,Contract,11631,Agent D,Proposal,Lost,18.37
+48,2023-06-02,38689.86,Upgrade,53699,Agent C,Closing,Open,26897.29
+187,2023-06-03,16640.78,Contract,56404,Agent A,Negotiation,Lost,22632.68
+171,2023-06-03,40837.62,Renewal,27570,Agent A,Negotiation,Lost,38445.97
+219,2023-06-07,33744.28,Sale,60933,Agent B,Negotiation,Lost,42268.23
+177,2023-06-12,47834.35,Sale,54192,Agent D,Negotiation,On Hold,29407.88
+95,2023-06-14,45795.0,Renewal,11614,Agent A,Negotiation,Lost,46480.94
+49,2023-06-14,45667.39,Sale,87158,Agent B,Closing,Won,46883.15
+24,2023-06-16,37888.51,Renewal,81777,Agent C,Closing,Lost,14806.39
+194,2023-06-17,13335.45,Contract,83020,Agent D,Qualification,Open,47153.11
+264,2023-06-19,15698.38,Upgrade,29641,Agent A,Prospecting,Lost,18863.45
+94,2023-06-20,48237.56,Contract,87525,Agent A,Prospecting,On Hold,24697.26
+1,2023-06-23,35572.67,Renewal,50068,Agent D,Closing,Open,10009.49
+21,2023-06-25,35936.97,Contract,49381,Agent B,Negotiation,Lost,19830.51
+299,2023-06-25,20007.84,Contract,30324,Agent D,Closing,Lost,15393.7
+227,2023-06-25,16072.84,Contract,41388,Agent B,Negotiation,Open,31918.14
+139,2023-06-25,40990.81,Sale,14409,Agent B,Prospecting,Open,17433.26
+266,2023-06-27,47416.26,Upgrade,37361,Agent C,Closing,On Hold,40903.86
+35,2023-06-28,43873.5,Renewal,46915,Agent B,Proposal,Won,14244.28
+100,2023-06-29,15450.54,Sale,68202,Agent C,Closing,On Hold,29433.11
+158,2023-07-01,25561.01,Renewal,97647,Agent B,Prospecting,Won,11445.38
+83,2023-07-01,27382.61,Contract,58008,Agent D,Qualification,On Hold,17972.66
+135,2023-07-03,21688.38,Contract,19103,Agent B,Negotiation,Won,24052.12
+217,2023-07-03,23407.43,Contract,93575,Agent B,Prospecting,Open,49454.42
+50,2023-07-04,8754.01,Contract,76297,Agent B,Negotiation,Open,15259.44
+141,2023-07-05,28347.58,Upgrade,53224,Agent B,Qualification,Lost,40243.92
+169,2023-07-05,15800.91,Renewal,39334,Agent A,Negotiation,Open,31415.69
+186,2023-07-05,24081.45,Sale,28058,Agent B,Qualification,Won,37430.3
+42,2023-07-06,13247.59,Renewal,14039,Agent C,Negotiation,Lost,24172.95
+110,2023-07-08,16041.52,Sale,43363,Agent C,Proposal,Lost,48963.51
+259,2023-07-10,15701.33,Upgrade,84462,Agent A,Closing,Won,4642.56
+208,2023-07-10,16337.34,Upgrade,62199,Agent C,Prospecting,On Hold,2676.48
+4,2023-07-13,45350.21,Upgrade,85358,Agent D,Qualification,Won,6104.28
+124,2023-07-14,22096.71,Sale,77267,Agent B,Negotiation,On Hold,3691.31
+18,2023-07-14,40912.11,Contract,18058,Agent A,Prospecting,Lost,49901.14
+7,2023-07-16,34838.52,Renewal,11291,Agent D,Prospecting,Lost,10493.02
+97,2023-07-18,19991.53,Renewal,47708,Agent D,Prospecting,Won,39903.95
+209,2023-07-18,14952.24,Renewal,42329,Agent C,Proposal,Lost,9081.12
+31,2023-07-18,21837.65,Renewal,24937,Agent B,Proposal,Open,24484.25
+255,2023-07-18,17259.66,Upgrade,79616,Agent B,Proposal,Lost,27759.69
+292,2023-07-19,23077.11,Renewal,94509,Agent C,Negotiation,Lost,38493.58
+241,2023-07-20,41673.49,Upgrade,11064,Agent B,Closing,Lost,11798.52
+300,2023-07-22,46587.14,Upgrade,73458,Agent C,Proposal,Won,47271.55
+106,2023-07-22,11612.6,Sale,66492,Agent A,Prospecting,On Hold,20654.31
+46,2023-07-23,47319.44,Contract,31863,Agent C,Negotiation,Open,30377.27
+76,2023-07-24,43202.46,Renewal,98193,Agent B,Proposal,On Hold,48210.02
+205,2023-07-25,5702.27,Renewal,98330,Agent D,Proposal,Lost,29485.59
+192,2023-07-28,21051.81,Contract,31707,Agent A,Proposal,Open,20581.32
+89,2023-07-28,28009.35,Renewal,39111,Agent B,Qualification,Open,2118.2
+261,2023-07-30,25218.12,Renewal,33843,Agent B,Proposal,On Hold,42559.92
+119,2023-07-30,16795.32,Renewal,75017,Agent D,Negotiation,Won,21418.93
+10,2023-08-01,39127.04,Renewal,44897,Agent A,Prospecting,Won,34273.36
+215,2023-08-02,48841.53,Sale,71472,Agent D,Closing,On Hold,36607.11
+207,2023-08-04,8063.33,Upgrade,90003,Agent B,Closing,Won,46453.31
+210,2023-08-05,16393.6,Sale,27181,Agent D,Closing,On Hold,5611.22
+200,2023-08-06,25437.31,Renewal,26627,Agent C,Prospecting,Won,41365.66
+223,2023-08-07,40245.55,Contract,59083,Agent A,Negotiation,Won,2138.16
+236,2023-08-08,42289.56,Upgrade,11004,Agent C,Proposal,On Hold,48026.12
+278,2023-08-11,23786.89,Renewal,71868,Agent A,Qualification,Lost,40148.77
+114,2023-08-12,37716.99,Sale,51622,Agent D,Proposal,Lost,37080.16
+198,2023-08-13,47538.57,Sale,24272,Agent B,Negotiation,Lost,5324.77
+149,2023-08-16,29127.99,Renewal,99333,Agent D,Closing,On Hold,45986.9
+87,2023-08-17,41995.3,Sale,32901,Agent D,Proposal,Lost,9681.16
+117,2023-08-17,7491.84,Upgrade,67427,Agent D,Negotiation,Won,7517.49
+179,2023-08-18,41934.52,Sale,76147,Agent A,Qualification,Lost,49926.33
+250,2023-08-22,15503.91,Contract,67924,Agent A,Proposal,On Hold,43509.11
+204,2023-08-24,6488.36,Sale,45568,Agent D,Closing,Lost,19656.12
+164,2023-08-27,36051.13,Upgrade,19690,Agent A,Prospecting,On Hold,16447.69
+274,2023-08-31,25331.98,Sale,66606,Agent D,Negotiation,Open,1638.8
+12,2023-09-01,22255.88,Renewal,22230,Agent D,Closing,Lost,5092.73
+36,2023-09-02,10288.93,Renewal,64019,Agent A,Prospecting,On Hold,5199.4
+30,2023-09-02,24110.85,Contract,81007,Agent A,Prospecting,Lost,35098.88
+57,2023-09-03,5739.33,Renewal,75112,Agent D,Negotiation,Won,15991.69
+47,2023-09-03,39439.64,Contract,98327,Agent C,Closing,On Hold,26329.2
+157,2023-09-07,29471.27,Renewal,17581,Agent D,Closing,Won,3429.84
+180,2023-09-10,45897.97,Contract,33289,Agent A,Proposal,On Hold,6578.8
+6,2023-09-10,14760.36,Contract,30045,Agent C,Prospecting,Lost,3003.9
+284,2023-09-12,29609.82,Renewal,69165,Agent B,Negotiation,Won,5823.16
+256,2023-09-13,22057.56,Renewal,88980,Agent B,Qualification,On Hold,20846.7
+251,2023-09-14,36039.57,Contract,18686,Agent B,Closing,Open,28103.31
+99,2023-09-15,23325.85,Contract,93303,Agent A,Qualification,On Hold,49023.32
+253,2023-09-15,37881.91,Sale,58825,Agent B,Prospecting,Lost,29809.22
+63,2023-09-16,7877.99,Renewal,42214,Agent B,Negotiation,Lost,22143.65
+221,2023-09-17,49523.44,Renewal,93227,Agent B,Closing,Won,15376.6
+131,2023-09-17,16674.02,Sale,14562,Agent B,Negotiation,On Hold,24921.74
+146,2023-09-17,6591.31,Sale,15703,Agent C,Qualification,On Hold,42032.05
+237,2023-09-18,46623.51,Sale,97047,Agent C,Negotiation,Open,39947.66
+203,2023-09-18,32650.91,Sale,45983,Agent B,Qualification,Lost,19153.32
+163,2023-09-19,45682.0,Renewal,17209,Agent D,Proposal,On Hold,15881.59
+78,2023-09-21,5595.66,Upgrade,87493,Agent C,Negotiation,Won,40103.43
+41,2023-09-24,30443.96,Renewal,76181,Agent D,Negotiation,Lost,41782.3
+239,2023-09-24,15468.21,Upgrade,31227,Agent C,Negotiation,Open,40246.78
+28,2023-09-24,6154.82,Contract,49905,Agent C,Qualification,Open,46758.03
+126,2023-09-25,40484.55,Contract,97360,Agent D,Qualification,Lost,35877.98
+193,2023-09-26,5734.78,Contract,62701,Agent D,Qualification,On Hold,15263.35
+69,2023-09-26,15426.57,Contract,44183,Agent C,Prospecting,Lost,35644.62
+151,2023-09-28,17491.82,Upgrade,32572,Agent B,Proposal,Won,32028.23
+161,2023-09-29,37587.54,Upgrade,80577,Agent A,Closing,On Hold,29546.34
+121,2023-09-29,35747.66,Upgrade,15130,Agent D,Proposal,Won,5254.73
+277,2023-10-02,11855.96,Contract,38070,Agent A,Prospecting,On Hold,9436.61
+58,2023-10-02,46828.82,Sale,12555,Agent B,Proposal,Open,9822.55
+293,2023-10-03,16178.61,Upgrade,43725,Agent B,Qualification,Won,42484.49
+190,2023-10-03,48154.22,Sale,20525,Agent B,Prospecting,Open,7329.19
+138,2023-10-04,7007.55,Contract,24552,Agent A,Qualification,On Hold,29313.87
+11,2023-10-06,19400.77,Renewal,35754,Agent C,Qualification,Won,2474.99
+88,2023-10-08,13543.16,Sale,70241,Agent A,Negotiation,Lost,5612.5
+144,2023-10-09,48174.5,Contract,83678,Agent C,Prospecting,Lost,20722.83
+37,2023-10-14,28282.06,Upgrade,55486,Agent D,Closing,Lost,45394.92
+143,2023-10-15,30989.43,Renewal,16034,Agent A,Negotiation,Lost,42365.38
+272,2023-10-15,48558.45,Renewal,39030,Agent D,Negotiation,Won,41424.02
+183,2023-10-16,33300.43,Upgrade,56843,Agent C,Negotiation,On Hold,18652.73
+238,2023-10-16,7070.33,Sale,37532,Agent B,Closing,Won,3899.64
+40,2023-10-17,22822.69,Renewal,39442,Agent B,Closing,Lost,39624.95
+275,2023-10-18,8189.14,Renewal,64898,Agent C,Proposal,Won,12207.85
+246,2023-10-19,49640.51,Renewal,89013,Agent A,Prospecting,Won,23516.06
+52,2023-10-19,31301.42,Contract,30381,Agent A,Negotiation,Lost,45106.56
+254,2023-10-19,44677.41,Sale,51847,Agent B,Proposal,Won,21440.49
+262,2023-10-20,18701.08,Contract,97984,Agent A,Negotiation,On Hold,38553.87
+66,2023-10-20,44442.74,Renewal,83298,Agent C,Prospecting,Open,23709.24
+206,2023-10-20,24295.81,Renewal,28065,Agent B,Qualification,Lost,44078.36
+270,2023-10-20,38784.42,Upgrade,28931,Agent C,Prospecting,On Hold,21562.89
+101,2023-10-21,10961.94,Upgrade,14845,Agent D,Closing,On Hold,2275.54
+265,2023-10-21,27607.53,Contract,32578,Agent D,Prospecting,Won,46301.33
+13,2023-10-21,31474.27,Sale,60863,Agent B,Qualification,On Hold,6708.68
+137,2023-10-23,25693.51,Contract,89131,Agent A,Closing,On Hold,43127.96
+232,2023-10-24,17917.32,Upgrade,95969,Agent D,Prospecting,Won,20756.26
+152,2023-10-25,10798.73,Renewal,17951,Agent B,Negotiation,Open,34432.42
+297,2023-10-26,28623.67,Sale,54304,Agent A,Negotiation,Lost,20797.67
+234,2023-10-26,23668.56,Sale,99744,Agent B,Proposal,Open,22590.35
+199,2023-10-29,44126.98,Renewal,73472,Agent A,Prospecting,Open,32545.7
+235,2023-10-31,21224.55,Contract,32075,Agent A,Proposal,Won,39991.5
+102,2023-11-02,7404.22,Upgrade,31922,Agent A,Proposal,Lost,9899.14
+92,2023-11-03,43798.62,Contract,72570,Agent D,Closing,Lost,41849.52
+226,2023-11-05,34812.71,Renewal,33325,Agent C,Qualification,Open,23104.88
+132,2023-11-05,21821.59,Renewal,18889,Agent B,Qualification,Lost,35089.29
+225,2023-11-07,15863.84,Renewal,95304,Agent A,Proposal,On Hold,13686.63
+17,2023-11-12,17309.39,Sale,15802,Agent D,Prospecting,On Hold,37526.83
+160,2023-11-15,25637.18,Upgrade,50580,Agent B,Negotiation,Won,21757.1
+64,2023-11-19,26853.24,Contract,80841,Agent A,Proposal,Open,44904.39
+285,2023-11-20,17367.06,Sale,87979,Agent D,Closing,On Hold,8159.09
+268,2023-11-21,44028.02,Renewal,67329,Agent C,Negotiation,Open,11074.51
+159,2023-11-21,44691.86,Sale,91618,Agent A,Qualification,On Hold,17899.2
+5,2023-11-21,49565.25,Upgrade,63123,Agent C,Closing,Open,12980.01
+77,2023-11-22,32804.45,Contract,24226,Agent D,Qualification,Lost,26574.71
+182,2023-11-24,12173.65,Contract,13995,Agent A,Prospecting,On Hold,41050.76
+185,2023-11-25,7822.08,Sale,64655,Agent B,Proposal,Open,4937.99
+153,2023-11-26,22670.41,Upgrade,93543,Agent D,Qualification,On Hold,2122.72
+156,2023-11-26,45679.28,Renewal,51470,Agent B,Prospecting,Lost,17005.04
+168,2023-11-29,33622.75,Renewal,26620,Agent B,Qualification,On Hold,37012.25
+26,2023-12-01,14599.04,Upgrade,91776,Agent C,Prospecting,Lost,32852.18
+84,2023-12-02,33776.26,Upgrade,34530,Agent C,Prospecting,Lost,45018.37
+32,2023-12-03,25860.89,Renewal,22120,Agent B,Prospecting,On Hold,6584.36
+59,2023-12-03,35146.24,Upgrade,91148,Agent A,Prospecting,Won,33576.38
+23,2023-12-05,47631.68,Upgrade,14207,Agent C,Proposal,On Hold,20438.69
+33,2023-12-06,17493.29,Contract,37117,Agent D,Proposal,On Hold,19850.68
+279,2023-12-08,10908.02,Renewal,26419,Agent B,Closing,Won,38373.29
+90,2023-12-09,15094.27,Renewal,78623,Agent D,Closing,On Hold,11387.05
+288,2023-12-09,23303.0,Upgrade,13958,Agent A,Qualification,On Hold,28292.25
+243,2023-12-09,48603.73,Renewal,67556,Agent B,Closing,Won,9875.96
+263,2023-12-15,42763.51,Upgrade,64833,Agent A,Negotiation,Won,14072.69
+294,2023-12-16,27763.99,Sale,52554,Agent D,Qualification,Won,1647.27
+196,2023-12-17,46818.11,Renewal,16388,Agent C,Qualification,Won,9944.61
+103,2023-12-17,37651.75,Sale,62222,Agent A,Proposal,Lost,20238.68
+162,2023-12-20,22956.14,Upgrade,94311,Agent C,Closing,Won,36119.58
+244,2023-12-21,45722.68,Contract,57708,Agent C,Qualification,Open,26415.76
+82,2023-12-24,26526.66,Upgrade,40281,Agent D,Proposal,Open,32893.11
+282,2023-12-25,45292.36,Contract,83041,Agent A,Closing,On Hold,7202.93
+67,2023-12-26,20217.15,Sale,71401,Agent C,Closing,Open,25738.36
+269,2023-12-27,47309.44,Sale,58764,Agent B,Qualification,Open,2212.6
+8,2023-12-27,16849.51,Upgrade,67741,Agent A,Qualification,On Hold,6615.28
+178,2023-12-28,30908.8,Contract,58428,Agent C,Proposal,On Hold,1713.35
+129,2023-12-28,40041.29,Contract,90736,Agent D,Negotiation,Open,39993.27
+150,2023-12-31,35662.66,Upgrade,62315,Agent B,Negotiation,On Hold,48038.32
